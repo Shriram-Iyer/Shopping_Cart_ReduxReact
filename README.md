@@ -1,2 +1,2 @@
-# Shopping_Cart
-Created with CodeSandbox
+# Shopping_Cart Using React and Redux
+
